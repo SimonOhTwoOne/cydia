@@ -1,0 +1,8 @@
+Origin: SimonOhTwoOne's Repo
+Label: Label
+Suite: stable
+Version: 1.0
+Codename: Codename
+Architecture: iphoneos-arm
+Components: main
+Description: What shows on Cydia pages for your tweaks
