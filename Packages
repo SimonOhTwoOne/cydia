@@ -6,7 +6,7 @@ Description: Teach people to use Google!
 Maintainer: Simon021 <SimonOhTwoOne@gmai.com>
 Author: Simon021 <SimonOhTwoOne@gmai.com>
 Section: Tweaks
-Depends:
+Depends: mobilesubstrate
 Filename: debs/me.simon021.selectlmgtfy_0.1_iphoneos-arm_0.1.deb
 Size: 9994
 MD5sum: 836d792f69afd22317a28e55a5271e45
