@@ -1,8 +1,8 @@
-Origin: SimonOhTwoOne's Repo
-Label: Label
+Origin: Simon021's repo
+Label: TODO lol
 Suite: stable
 Version: 1.0
-Codename: Codename
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: What shows on Cydia pages for your tweaks
+Description: My person repo filled with random shit kek
