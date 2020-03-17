@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Description: Teach people to use Google!
 Maintainer: Simon021 <SimonOhTwoOne@gmai.com>
 Author: Simon021 <SimonOhTwoOne@gmai.com>
-Section: Themes
+Section: Tweaks
 Depends:
 Filename: debs/me.simon021.selectlmgtfy_0.1_iphoneos-arm_0.1.deb
 Size: 9994
