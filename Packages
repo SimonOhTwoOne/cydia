@@ -12,3 +12,18 @@ Size: 9994
 MD5sum: 836d792f69afd22317a28e55a5271e45
 SHA1: 3396dbea8e52577b3779801cd9978cc64dcfc49d
 SHA256: f8e76ac1502c9cf1ae8f23649c83a4680132fa30e87db1be44291d63d14df37b
+
+Package: me.simon021.selectlmgtfy
+Name: SelectLMGTFY
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Teach people to use Google!
+Maintainer: Simon021 <SimonOhTwoOne@gmai.com>
+Author: Simon021 <SimonOhTwoOne@gmai.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/me.simon021.selectlmgtfy_0.2-1+debug_iphoneos-arm.deb
+Size: 10092
+MD5sum: 7ac7e0463bc63b39cbee466fd283a4cb
+SHA1: e1b556fc004d04f564156b356d4c2fdc299a5088
+SHA256: df294810ff85e7b4a72689c16c0f5d0675dcbd21816f8d3d1da726db58ca263e
