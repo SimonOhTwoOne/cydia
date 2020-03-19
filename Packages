@@ -1,25 +1,10 @@
 Package: me.simon021.selectlmgtfy
 Name: SelectLMGTFY
-Version: 0.1
-Architecture: iphoneos-arm
-Description: Teach people to use Google!
-Maintainer: Simon021 <SimonOhTwoOne@gmai.com>
-Author: Simon021 <SimonOhTwoOne@gmai.com>
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: debs/me.simon021.selectlmgtfy_0.1_iphoneos-arm_0.1.deb
-Size: 9994
-MD5sum: 836d792f69afd22317a28e55a5271e45
-SHA1: 3396dbea8e52577b3779801cd9978cc64dcfc49d
-SHA256: f8e76ac1502c9cf1ae8f23649c83a4680132fa30e87db1be44291d63d14df37b
-
-Package: me.simon021.selectlmgtfy
-Name: SelectLMGTFY
 Version: 0.2
 Architecture: iphoneos-arm
 Description: Teach people to use Google!
-Maintainer: Simon021 <SimonOhTwoOne@gmai.com>
-Author: Simon021 <SimonOhTwoOne@gmai.com>
+Maintainer: Simon021 <SimonOhTwoOne@gmail.com>
+Author: Simon021 <SimonOhTwoOne@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
 Filename: debs/me.simon021.selectlmgtfy_0.2-1+debug_iphoneos-arm.deb
